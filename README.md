@@ -8,6 +8,12 @@ GitHub - místo, kde můžete spolupracovat zejména nad kódem (textem):
 * GitHub jako sociální síť:
   * Má hvězdičky, sledování lidí, seznamování se na projektech (Open Source komunita).
 
+## Version control na GitHubu
+
+* "Zavazujeme se" k verzím repozitáře - princip Gitu
+* Pomocí větví však můžeme pracovat na stejném projektu ba i souboru
+* Větve můžeme hodnotit a porovnávat v recenzích/review
+
 ## Vytvoříme si vlastní repo
 
 * Dnes nás bude zajímat
