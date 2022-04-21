@@ -11,9 +11,9 @@ GitHub - místo, kde můžete spolupracovat zejména nad kódem (textem):
 ## Vytvoříme si vlastní repo
 
 * Dnes nás bude zajímat
-  * Code
+  * Code Hotovo
   * Issues
-  * Pull requests
+  * Pull requests Hotovo
   * Settings
 
 * Možná stihneme:
@@ -23,3 +23,12 @@ GitHub - místo, kde můžete spolupracovat zejména nad kódem (textem):
   * Actions - automatizace (např. testování, nasazení, ale i značkování)
   * Wiki - wiki stránka projektu
   * Security - nastavení bezpečnostních opatření
+
+# Dalsi zdroje
+[Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+[Git branching tutorial](https://learngitbranching.js.org/)
+
+[Github pages doc](https://pages.github.com/) 
+
+[Github actions tutorial](https://github-actions-hero.vercel.app/)
